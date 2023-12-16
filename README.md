@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gbenga Olatunji</h1>
-<h3 align="center">A passionate front-end developer from Lagos, Nigeria</h3>
+<h3 align="center">A junior software engineer from Lagos, Nigeria</h3>
 
 <h3>About Me</h3> <p>I am a junior front-end developer who developed a passion for this field as a result of my keenness towards appealing designs. I love to create interesting visuals that enhance seamless user experience using up-to-date tools and libraries. I am constantly improving and broadening my knowledge by exploring new frameworks, tools, and libraries thereby enhancing my skills in front-end development </p>
 
