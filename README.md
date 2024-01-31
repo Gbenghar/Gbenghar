@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **olatunjigbenga21@gmail.com**
 - 
-- 📫 Personal Portfolio **[olatunjigbenga21@gmail.com](https://personal-portfolio-six-black.vercel.app/)**
+- 📫 Personal Portfolio "olatunjigbenga21@gmail.com](https://personal-portfolio-six-black.vercel.app/"
 
 - ⚡ Fun fact **I have an interesting and likable character which fosters good working relationships with my colleague(s)**
 
